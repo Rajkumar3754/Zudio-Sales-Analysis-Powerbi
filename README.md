@@ -1,6 +1,6 @@
 # Zudio Sales Analysis 2024
 
-![Zudio Logo]([https://via.placeholder.com/150](https://chatgpt.com/c/6770009b-a810-800b-8a6a-f307d99f753a])  <!-- Replace with your actual logo URL -->
+
 
 ## ✨ Overview
 
